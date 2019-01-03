@@ -87,7 +87,7 @@ install contrib/mc.{sh,csh} %{buildroot}%{_sysconfdir}/profile.d
 %{_mandir}/man1/*
 
 %changelog
-* Thu Jan 03 2019 Kitsune Solar <kitsune.solar@gmail.com> - 1:4.8.22-2
+* Thu Jan 03 2019 Kitsune Solar <kitsune.solar@gmail.com> - 1:4.8.22-1
 - Updated to 4.8.22.
 - Update from METASTORE.
 
