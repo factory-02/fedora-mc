@@ -6,9 +6,9 @@ Release:                        1%{?dist}
 Epoch:                          1
 Summary:                        User-friendly text console file manager and visual shell
 License:                        GPLv3+
-URL:                            http://www.midnight-commander.org/
+URL:                            https://www.midnight-commander.org/
 
-Source0:                        http://www.midnight-commander.org/downloads/mc-%{version}.tar.xz
+Source0:                        https://www.midnight-commander.org/downloads/mc-%{version}.tar.xz
 
 Patch0:                         %{name}-tmpdir.patch
 
